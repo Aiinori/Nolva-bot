@@ -1,4 +1,4 @@
 package-lock.json
-# src/config.json
-# src/data.json
+src/config.json
+src/data.json
 .ideas/
