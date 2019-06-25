@@ -8,7 +8,6 @@ const bot = new Discord.Client();
 
 let servers = {};
 
-
 require('./utils/loadEvents.js')(bot);
 
 bot.login(config.token);
